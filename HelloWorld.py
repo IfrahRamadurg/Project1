@@ -1,3 +1,6 @@
 print("Hello World")
 print("Git Jenkins Integration")
 print("SCM Polling")
+print("ngrok setup completed successfully")
+print("Github webhook configured successfully")
+print("Github webhook trigger")
